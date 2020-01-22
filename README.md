@@ -11,5 +11,4 @@ To deploy to heroku
 - git push heroku master
 - heroku open
 
-# model-deployment-hopinacademy-tutorials
 A brief tutorial on how to deploy a tensorflow model to prodution
